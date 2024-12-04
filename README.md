@@ -1,1 +1,3 @@
-Repository for software engineering labs
+Баев Сергей КС-20
+
+Репозиторий для лабораторных по программной инженерии 
